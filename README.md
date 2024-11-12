@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammet Emin Gündoğar
 ==============================================================================================================================================
 
-Junior Android Developer With Kotlin
+Android Developer With Kotlin
 ------------------------------------
 
-Junior Android Developer passionate about building user-friendly mobile experiences. Constantly exploring the latest in Android development to create
+ Android Developer passionate about building user-friendly mobile experiences. Constantly exploring the latest in Android development to create
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [muhammetemingundogar53@gmail.com](mailto:muhammetemingundogar53@gmail.com)
