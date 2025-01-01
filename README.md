@@ -8,7 +8,6 @@ Android Developer With Kotlin
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [muhammetemingundogar53@gmail.com](mailto:muhammetemingundogar53@gmail.com)
-* 🚀  I'm currently working on [Linkedin Clone](http://https://github.com/bymaskeli53/LinkedinClone)
 * 🧠  I'm learning Jetpack Compose
 
 <a href="https://www.github.com/bymaskeli53" target="_blank" rel="noreferrer"><img
@@ -18,7 +17,7 @@ src="https://img.shields.io/github/followers/bymaskeli53?logo=github&style=for-t
 
 
 <p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
 
